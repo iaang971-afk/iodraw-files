@@ -89,7 +89,7 @@
             <mxPoint x="-9" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M6VyAuxutU-SOphaqPBh-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6VyAuxutU-SOphaqPBh-18" target="M6VyAuxutU-SOphaqPBh-27" edge="1">
+        <mxCell id="M6VyAuxutU-SOphaqPBh-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6VyAuxutU-SOphaqPBh-18" target="M6VyAuxutU-SOphaqPBh-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="700" as="sourcePoint" />
             <mxPoint x="690" y="650" as="targetPoint" />
