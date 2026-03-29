@@ -29,7 +29,7 @@
           <mxGeometry x="20" y="200" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-12" value="计算散热性能误差函数J&lt;div&gt;（含温度梯度、热点函数、&lt;/div&gt;&lt;div&gt;热流指标）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="265" width="190" height="60" as="geometry" />
+          <mxGeometry x="20" y="265" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6VyAuxutU-SOphaqPBh-11" target="M6VyAuxutU-SOphaqPBh-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-14" value="检查迭代次数&lt;div&gt;是否达到最大次数&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="400" width="180" height="70" as="geometry" />
+          <mxGeometry x="20" y="355" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6VyAuxutU-SOphaqPBh-12" target="M6VyAuxutU-SOphaqPBh-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-18" value="判断是否满足停止条件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="510" width="180" height="60" as="geometry" />
+          <mxGeometry x="20" y="505" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6VyAuxutU-SOphaqPBh-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6VyAuxutU-SOphaqPBh-14" target="M6VyAuxutU-SOphaqPBh-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
